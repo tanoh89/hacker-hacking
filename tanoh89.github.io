@@ -1,0 +1,10 @@
+HACKER HACKING
+
+Le hacking, une histoire de révolutionnaires
+Internet est un monde où le piratage est omniprésent. En 2016, plus d’un million de fraudes à la carte bancaire ont été commises. 5,6 millions de données personnelles ont été piratées ou perdues. Google a supprimé plus 1,4 milliards de publicités mensongères, illégales ou trompeuses. Face à cette menace permanente, les hautes autorités internationales ont fait des hackers des ennemis publics numéro 1. Pourtant, elles ont oublié que ces pirates évoluent dans un univers qu’ils ont en partie façonné. Phreakers, bidouilleurs ou encore hackeurs, ces geeks ont par leurs piratages repoussé les limites du savoir technologique. Retour sur l’histoire de ces héros de la révolution informatique devenus les hors-la-loi du monde qu’ils ont eux-mêmes créé.
+ 
+ 
+Les phreakers : l’origine du hacking
+Le premier piratage n’a pas concerné les ordinateurs mais le réseau téléphonique. En 1970, John Drapeur termine son service militaire. Au cours de ses études en électronique, il découvre un univers caché : le phreaking. Un jeu dont l’objectif est de décortiquer le système téléphonique pour passer des appels gratuits. À l’époque, les réseaux de télécommunication sont contrôlés par des tonalités. Le défi des phreakers consiste alors à trouver des objets capables de reproduire ces mêmes sons.
+C’est en mangeant des céréales Captain Crunch que John Draper tombe sur un cadeau révolutionnaire : un sifflet qui émet une sonorité de 2600 Hz soit celle émise par l’une des tonalités des téléphones. Il suffit alors au jeune homme de siffler dans un combiné pour libérer une ligne et passer un appel gratuitement. Avec ses amis phreackers, ils vont s’amuser à prendre le contrôle de réseaux téléphoniques. Surnommé Captain Crunch, Drapeur vient d ‘inventer le hacking : « Un jour nous étions à l’aéroport et nous avons sifflé à côté d’une rangée de téléphones, nous avons ainsi déconnecté tous les appels ! Nous étions en quelque sorte les pères fondateurs des hackeurs ».
+
